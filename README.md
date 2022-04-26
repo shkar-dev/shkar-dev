@@ -1,9 +1,12 @@
+<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif"/>
 <h1 align="center">Hi 👋, I'm shkar shahab</h1>
 <h3 align="center">A passionate fullstack developer from Kurdistan</h3>
 
+<img  align="right" width="400"src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shkar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shkar-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shkar-dev" alt="shkar-dev" /></a> </p>
+
 
 - 🌱 I’m currently learning **ReactJs , Asp.Net core**
 
